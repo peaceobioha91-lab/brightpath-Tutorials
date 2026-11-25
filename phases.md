@@ -15,11 +15,11 @@
 
 ## STATUS (update after every piece, then push)
 - **Current phase:** Phase 1
-- **Done:** Phase 0 (planning files on GitHub)
-- **Last tool used:** none yet
-- **Last push to GitHub:** none yet
-- **Live link:** none yet
-- **Notes for the next tool:** (what is done, what is half-done, known bugs)
+- **Done:** Phase 0 (planning files on GitHub); Phase 1 Next.js/TypeScript/Tailwind hello page (tested; implementation commit `c854fe327682c15227045d56915782c2219e93d5`)
+- **Last tool used:** v0
+- **Last push to GitHub:** none; Phase 1 commits on local `main` are unpushed
+- **Live link:** not deployed; v0 preview: https://brightpath-tutorials-brightpath-tutorials-7c1f44e3e7a97820.v0.build
+- **Notes for the next tool:** Tests passed: `npm run build` (production build and TypeScript); browser display verified at desktop 558x539 and mobile 360x800; page text is only “BrightPath Tutorials”; `git diff --cached --check` passed. The Phase 1 app task is complete, but the GitHub push and Vercel deployment remain pending. Implementation commit: `c854fe327682c15227045d56915782c2219e93d5`. Do not start Phase 2 until the user says “go”.
 
 ## Tool-switch prompt (paste into a new tool)
 > Read PRD.md, design.md, CLAUDE.md and phases.md. Check STATUS to see where we stopped, update it, and continue with the next unticked item. Plan first and wait for my "go".
@@ -35,7 +35,7 @@
 - [ ] design.md updated to the purple and sky blue palette and committed on GitHub
 
 ## Phase 1: Hello world, live
-- [ ] Create the Next.js and Tailwind project (a simple "BrightPath" hello page)
+- [x] Create the Next.js, TypeScript and Tailwind project (centered "BrightPath Tutorials" heading; production build and desktop/mobile browser checks passed)
 - [ ] Push to GitHub
 - [ ] Deploy on Vercel from the repo
 **Checklist:** live link opens on my phone; GitHub shows the code.
