@@ -8,14 +8,15 @@ Trustworthy, warm, hopeful. A serious exam centre a parent feels safe trusting, 
 ## Colours
 | Name | Hex | Use |
 |---|---|---|
-| Ink Blue | `#14284B` | Headings, header, footer, main text on light |
-| Sunrise Yellow | `#FFC531` | Register buttons, highlights (use Ink Blue text on it) |
+| Deep Purple | `#3B2A78` | Headings, header, footer, main text on light |
+| Sky Blue | `#5BC0EB` | Register buttons, highlights (use `#241752` text on it) |
 | Chalk | `#FFFFFF` | Main background |
-| Paper | `#F3F6FA` | Alternate section backgrounds |
+| Lilac Paper | `#F3F1FA` | Alternate section backgrounds |
 | Marker Green | `#1E8E5A` | Ticks, "open" indicators, success |
-| Slate | `#4A5568` | Body text and small text |
+| Slate | `#46425A` | Body text and small text |
+| Line | `#D8D3EC` | Thin borders |
 
-Rules: body text is Slate or Ink Blue on white. Never put yellow text on white. Check contrast at webaim.org/resources/contrastchecker.
+Rules: body text is Slate or Deep Purple on white. Never put Sky Blue text on white. Text on Sky Blue buttons is dark purple `#241752`. Check contrast at webaim.org/resources/contrastchecker.
 
 ## Fonts (Google Fonts)
 - **Headings:** Bricolage Grotesque, bold
@@ -28,12 +29,12 @@ H1 32px, H2 26px, H3 20px, body 17px, small 14px. Line height 1.5 for body. Keep
 ## Shape and spacing
 - Corners: 10px on cards and buttons, 999px on small tags
 - Spacing scale: 8, 16, 24, 40, 64
-- Shadows: almost none. Use a thin 1px border (`#D9E0EA`) instead.
+- Shadows: almost none. Use a thin 1px border (`#D8D3EC`) instead.
 - Vary the layout: do not make every section the same grid of identical cards.
 
 ## Buttons
-- **Main (Register):** Sunrise Yellow background, Ink Blue bold text, 48px tall minimum
-- **Second:** white background, Ink Blue border and text
+- **Main (Register):** Sky Blue background, dark purple (`#241752`) bold text, 48px tall minimum
+- **Second:** white background, Deep Purple border and text
 - Plain verbs: "Register", "Chat with us", "Get directions". No arrows needed.
 
 ## Signature elements (the memorable part)
