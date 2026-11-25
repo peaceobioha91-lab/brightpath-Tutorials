@@ -14,12 +14,12 @@
 8. When stuck, ask questions early. Do not struggle alone.
 
 ## STATUS (update after every piece, then push)
-- **Current phase:** Phase 2 (in progress)
-- **Done:** Phase 0 (planning files on GitHub); Phase 1 complete (Next.js/TypeScript/Tailwind hello page tested, pushed, and production-deployed; implementation commit `c854fe327682c15227045d56915782c2219e93d5`)
+- **Current phase:** Phase 2 (complete)
+- **Done:** Phase 0 (planning files on GitHub); Phase 1 complete (Next.js/TypeScript/Tailwind hello page tested, pushed, and production-deployed); Phase 2 six-page skeleton implemented, tested, pushed, and production-verified in commit `7631880f8e1948b55d10d5357cd68199d65b1bf0`
 - **Last tool used:** v0
-- **Last push to GitHub:** Phase 1 implementation pushed to `main` in `peaceobioha91-lab/brightpath-Tutorials`; final Phase 1 commit `b237fe08a340e25f66e2b1bafd7d33fb36bd69b7`
-- **Live link:** production deployment succeeded and was opened and verified on 25 November 2026; the centered “BrightPath Tutorials” heading displays as expected
-- **Notes for the next tool:** Phase 1 is complete. Phase 2 implementation and local validation are complete; the push to the existing `main` branch and production verification are pending. Resolve the fee-guidance conflict between `PRD.md` and `CLAUDE.md` before Phase 3; no fee values or Phase 3 content were added during Phase 2.
+- **Last push to GitHub:** Phase 2 implementation pushed to `main` in `peaceobioha91-lab/brightpath-Tutorials`; commit `7631880f8e1948b55d10d5357cd68199d65b1bf0`
+- **Live link:** `https://brightpath-tutorials.vercel.app`; production deployment was READY and all six routes were opened and verified on 25 November 2026
+- **Notes for the next tool:** Phase 2 is complete. Resolve the fee-guidance conflict between `PRD.md` and `CLAUDE.md` before Phase 3; no fee values or Phase 3 content were added. Wait for the user to approve starting Phase 3.
 
 ## Tool-switch prompt (paste into a new tool)
 > Read PRD.md, design.md, CLAUDE.md and phases.md. Check STATUS to see where we stopped, update it, and continue with the next unticked item. Plan first and wait for my "go".
@@ -45,7 +45,7 @@
 - [x] Build shared responsive navigation and footer across all six routes
 - [x] Create page shells: Home, About Us, Programmes, Timetable, Fees and Registration, and Contact Us; retain PRD topics as mapped subsections without Phase 3 content
 - [x] Pass production build, desktop/mobile layout, navigation, keyboard accessibility, contrast, and reduced-motion checks
-- [ ] Push to the existing `main` branch and verify the deployed routes
+- [x] Push to the existing `main` branch and verify the deployed routes
 **Acceptance criteria:** all six routes load and connect through consistent navigation; the shared footer appears on every route; navigation works by keyboard and on mobile; no page overflow at 360px; fonts and tokens follow `design.md`; production build and accessibility checks pass; deployed routes are verified.
 **Before Phase 3:** resolve the fee guidance conflict between `PRD.md` and `CLAUDE.md`; do not invent or add fee information during Phase 2.
 
