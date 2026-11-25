@@ -1,5 +1,7 @@
 import { Bricolage_Grotesque, Nunito_Sans } from 'next/font/google'
 import type { Metadata } from 'next'
+import { SiteFooter } from '../components/site-footer'
+import { SiteHeader } from '../components/site-header'
 import './globals.css'
 
 const headingFont = Bricolage_Grotesque({
@@ -15,7 +17,10 @@ const bodyFont = Nunito_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'BrightPath Tutorials',
+  title: {
+    default: 'BrightPath Tutorials',
+    template: '%s | BrightPath Tutorials',
+  },
   description: 'BrightPath Tutorials',
 }
 
@@ -27,7 +32,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${headingFont.variable} ${bodyFont.variable}`}>
+        <a className="skip-link" href="#main-content">
+          Skip to content
+        </a>
+        <SiteHeader />
         {children}
+        <SiteFooter />
       </body>
     </html>
   )
