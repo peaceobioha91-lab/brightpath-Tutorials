@@ -14,12 +14,12 @@
 8. When stuck, ask questions early. Do not struggle alone.
 
 ## STATUS (update after every piece, then push)
-- **Current phase:** Phase 1
-- **Done:** Phase 0 (planning files on GitHub); Phase 1 Next.js/TypeScript/Tailwind hello page (tested; implementation commit `c854fe327682c15227045d56915782c2219e93d5`)
+- **Current phase:** Phase 1 (complete)
+- **Done:** Phase 0 (planning files on GitHub); Phase 1 complete (Next.js/TypeScript/Tailwind hello page tested, pushed, and production-deployed; implementation commit `c854fe327682c15227045d56915782c2219e93d5`)
 - **Last tool used:** v0
-- **Last push to GitHub:** Phase 1 implementation pushed to `main` in `peaceobioha91-lab/brightpath-Tutorials`; final commit `b237fe08a340e25f66e2b1bafd7d33fb36bd69b7`
-- **Live link:** deployment pending; v0 preview: https://brightpath-tutorials-brightpath-tutorials-7c1f44e3e7a97820.v0.build
-- **Notes for the next tool:** Tests passed: `npm run build` (production build and TypeScript); browser display verified at desktop 558x539 and mobile 360x800; page text is only “BrightPath Tutorials”; `git diff --cached --check` passed. Phase 1 implementation and GitHub push are complete. Vercel deployment remains pending. Final GitHub commit: `b237fe08a340e25f66e2b1bafd7d33fb36bd69b7`. Do not start Phase 2 until the user says “go”.
+- **Last push to GitHub:** Phase 1 implementation pushed to `main` in `peaceobioha91-lab/brightpath-Tutorials`; final Phase 1 commit `b237fe08a340e25f66e2b1bafd7d33fb36bd69b7`
+- **Live link:** production deployment succeeded and was opened and verified on 25 November 2026; the centered “BrightPath Tutorials” heading displays as expected
+- **Notes for the next tool:** Vercel build configuration was corrected by selecting the Next.js framework preset. Production deployment succeeded on 25 November 2026, and the live page was opened and verified with the centered “BrightPath Tutorials” heading. Phase 1 is complete. Do not start Phase 2 until the user says “go”.
 
 ## Tool-switch prompt (paste into a new tool)
 > Read PRD.md, design.md, CLAUDE.md and phases.md. Check STATUS to see where we stopped, update it, and continue with the next unticked item. Plan first and wait for my "go".
@@ -34,11 +34,11 @@
 - [x] GitHub repo `brightpath-Tutorials` with PRD.md, phases.md, design.md, CLAUDE.md, AGENTS.md, client-information.md
 - [ ] design.md updated to the purple and sky blue palette and committed on GitHub
 
-## Phase 1: Hello world, live
+## Phase 1: Hello world, live (DONE)
 - [x] Create the Next.js, TypeScript and Tailwind project (centered "BrightPath Tutorials" heading; production build and desktop/mobile browser checks passed)
 - [x] Push Phase 1 implementation to GitHub `main` (commit `b237fe08a340e25f66e2b1bafd7d33fb36bd69b7`)
-- [ ] Deploy on Vercel from the repo
-**Checklist:** live link opens on my phone; GitHub shows the code.
+- [x] Deploy on Vercel from the repo (Next.js framework preset selected; production deployment succeeded and live page verified on 25 November 2026)
+**Checklist:** live link opened and verified; GitHub shows the code.
 
 ## Phase 2: Skeleton
 - [ ] Style tokens from design.md (colours, fonts)
