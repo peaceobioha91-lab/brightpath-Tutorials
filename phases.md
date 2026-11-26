@@ -19,7 +19,7 @@
 - **Last tool used:** v0
 - **Last push to GitHub:** Phase 2 implementation pushed to `main` in `peaceobioha91-lab/brightpath-Tutorials`; commit `7631880f8e1948b55d10d5357cd68199d65b1bf0`
 - **Live link:** `https://brightpath-tutorials.vercel.app`; production deployment was READY and all six routes were opened and verified on 25 November 2026
-- **Notes for the next tool:** Phase 2 is complete. Resolve the fee-guidance conflict between `PRD.md` and `CLAUDE.md` before Phase 3; no fee values or Phase 3 content were added. Wait for the user to approve starting Phase 3.
+- **Notes for the next tool:** Phase 2 is complete. Approved monthly fees are synchronized across `PRD.md`, `CLAUDE.md`, `AGENTS.md` and `client-information.md`: JAMB Preparation ₦15,000, WAEC Preparation ₦30,000, Post-UTME Preparation ₦12,000. No Phase 3 content has been started; wait for the user to approve starting Phase 3.
 
 ## Tool-switch prompt (paste into a new tool)
 > Read PRD.md, design.md, CLAUDE.md and phases.md. Check STATUS to see where we stopped, update it, and continue with the next unticked item. Plan first and wait for my "go".
@@ -47,7 +47,7 @@
 - [x] Pass production build, desktop/mobile layout, navigation, keyboard accessibility, contrast, and reduced-motion checks
 - [x] Push to the existing `main` branch and verify the deployed routes
 **Acceptance criteria:** all six routes load and connect through consistent navigation; the shared footer appears on every route; navigation works by keyboard and on mobile; no page overflow at 360px; fonts and tokens follow `design.md`; production build and accessibility checks pass; deployed routes are verified.
-**Before Phase 3:** resolve the fee guidance conflict between `PRD.md` and `CLAUDE.md`; do not invent or add fee information during Phase 2.
+**Before Phase 3:** approved fee guidance is synchronized across project documentation: JAMB Preparation ₦15,000 monthly, WAEC Preparation ₦30,000 monthly, and Post-UTME Preparation ₦12,000 monthly. Do not start Phase 3 until the user approves.
 
 ## Phase 3: Content, one section at a time (push after each)
 - [ ] Home

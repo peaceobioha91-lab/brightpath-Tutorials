@@ -87,7 +87,7 @@ requiring human attention will be directed to the administrator.
 
   Programme                 Duration   Monthly Fee
   ----------------------- ---------- -------------
-  WAEC Preparation          12 weeks       ₦15,000
+  WAEC Preparation          12 weeks       ₦30,000
   JAMB Preparation          12 weeks       ₦15,000
   Post-UTME Preparation     12 weeks       ₦12,000
 
@@ -221,7 +221,7 @@ requirements and examination format of the relevant institution.
 The following information is introduced to make the simulated business
 scenario realistic and support project development.
 
--   Programme fees are the proposed fees used for this project.
+-   The monthly programme fees listed in section 5 are approved for this project: JAMB Preparation ₦15,000, WAEC Preparation ₦30,000, and Post-UTME Preparation ₦12,000.
 -   All eight tutor profiles are fictional.
 -   The academic timetable is a proposed arrangement.
 -   Programmes run in 12-week cycles.
@@ -241,7 +241,7 @@ with a real client in an actual business engagement.
 If BrightPath Tutorials were a real client, the following information
 would require confirmation:
 
--   Actual programme fees and payment arrangements.
+-   Actual programme fees for a real client and payment arrangements.
 -   Tutor qualifications and availability.
 -   Classroom capacity and availability.
 -   Exact registration requirements.
@@ -257,9 +257,9 @@ This document serves as the business-information foundation for a
 simulated capstone project.
 
 The business details, mock interview findings, tutor profiles, proposed
-timetable, programme fees and operational arrangements are created or
-documented for the purpose of the project. They should not be presented
-as independently verified information about an actual operating
+timetable, approved project fee amounts and operational arrangements are
+created or documented for the purpose of the project. They should not be
+presented as independently verified information about an actual operating
 business.
 
 The proposed website will focus on improving information accessibility,

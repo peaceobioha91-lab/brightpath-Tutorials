@@ -32,7 +32,7 @@ Next.js, TypeScript, Tailwind CSS. Deploy on Vercel. Code on GitHub. Chatbot: Ch
 Never put passwords, API keys or tokens in code or in these files. Use `.env.local` (and keep it out of GitHub).
 
 ## Content facts we DO have
-Business: BrightPath Tutorials. Area: Uwasota, Benin City. Owner: Mr Esosa Idahosa. Admin: Joy (weekday mornings). Classes: WAEC, JAMB, Post-UTME. Process: enquiry, then onboarding, then a person decides. Fees: not confirmed yet, so say "Contact the centre for fees".
+Business: BrightPath Tutorials. Area: Uwasota, Benin City. Owner: Mr Esosa Idahosa. Admin: Joy (weekday mornings). Classes: WAEC, JAMB, Post-UTME. Process: enquiry, then onboarding, then a person decides. Approved monthly fees: JAMB Preparation ₦15,000; WAEC Preparation ₦30,000; Post-UTME Preparation ₦12,000. State these amounts plainly; do not add fee disclaimers or calculate total course fees or discounts.
 
 ## Useful commands
 `npm install` then `npm run dev` (runs at localhost:3000). `npm run build` to check before pushing.

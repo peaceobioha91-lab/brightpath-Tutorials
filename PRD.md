@@ -62,11 +62,11 @@ Single-page site with a sticky menu, or separate pages. Either is fine; keep it 
 ### 6.1 Programmes and fees [CA]
 | Programme | Duration | Monthly fee |
 |---|---|---|
-| WAEC Preparation | 12 weeks | ₦15,000 |
+| WAEC Preparation | 12 weeks | ₦30,000 |
 | JAMB Preparation | 12 weeks | ₦15,000 |
 | Post-UTME Preparation | 12 weeks | ₦12,000 |
 
-Format money as ₦15,000 (naira sign, comma). All programmes run in 12-week cycles. Lessons include classroom teaching, past-question practice, revision and mock examinations.
+Format money with the naira sign and comma, e.g. ₦15,000 and ₦30,000. All programmes run in 12-week cycles. Lessons include classroom teaching, past-question practice, revision and mock examinations.
 
 Mock examinations: WAEC once a month. JAMB once a month. Post-UTME once every two months.
 
@@ -138,7 +138,7 @@ Rules: friendly tone, uses the business name, follows the NEVER RULES, points pe
 | 2 | Yes: Saturdays. JAMB Practice 9:00 am – 12:00 pm, Post-UTME 12:30 pm – 5:00 pm | n/a |
 | 3 | Subject lists in 6.3, keeping the JAMB exclusions | n/a |
 | 4 | Uwasota, opposite St. Patrick Catholic Church, Benin City, Edo State | n/a |
-| 5 | 12 weeks. Monthly fee ₦15,000 (WAEC), ₦15,000 (JAMB), ₦12,000 (Post-UTME) | Payment methods are not documented. Say the administrator will confirm how to pay |
+| 5 | 12 weeks. Monthly fee ₦30,000 (WAEC), ₦15,000 (JAMB), ₦12,000 (Post-UTME) | Payment methods are not documented. Say the administrator will confirm how to pay |
 | 6 | Describe the method only: classroom teaching, past-question practice, revision, monthly mock exams (every two months for Post-UTME) | Never promise improvement, scores or results |
 | 7 | No results have been provided by the centre | Say so honestly, mention the regular mock exams, and offer a person to follow up |
 | 8 | Tap Register (WhatsApp) or use the enquiry form; the administrator reviews and contacts them; a person decides acceptance after onboarding | n/a |
@@ -189,6 +189,6 @@ At least 4: one large hero image and three for the class cards (WAEC, JAMB, Post
 
 **Mock interview findings [MI]** (simulated interview, not a real business owner): the centre provides exam-preparation lessons; audience is secondary-school students, prospective university students and parents; enquiries come from students and parents; Joy handles administrative enquiries and registration communication; delayed replies slow information reaching families; Joy works weekday mornings only; weekly enquiry volumes (10 to 20, about 40 before exams); the need for a more organised way to share services and take registration enquiries.
 
-**Capstone assumptions [CA]** (created to make the scenario realistic; confirm with a real client in a real engagement): programme fees; the weekly timetable; 12-week cycles; mock exam frequency; all eight tutor profiles (fictional, not verified qualifications or employment records); subject lists and tutor allocations; the registration process; the chatbot's general-information role and handover of complex enquiries to the administrator.
+**Capstone assumptions [CA]** (created to make the scenario realistic; fee amounts are approved for this project but are not independently verified for a real operating business): the programme fees in section 6.1; the weekly timetable; 12-week cycles; mock exam frequency; all eight tutor profiles (fictional, not verified qualifications or employment records); subject lists and tutor allocations; the registration process; the chatbot's general-information role and handover of complex enquiries to the administrator.
 
-**Would need validation with a real client:** actual fees and payment arrangements; tutor qualifications and availability; classroom capacity; exact registration requirements; official phone number and email; accepted payment methods; whether online payment is required; exact subject combinations per exam; class allocation.
+**Would need validation with a real client:** actual programme fees for that business and payment arrangements; tutor qualifications and availability; classroom capacity; exact registration requirements; official phone number and email; accepted payment methods; whether online payment is required; exact subject combinations per exam; class allocation.
